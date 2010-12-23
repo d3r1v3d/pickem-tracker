@@ -1,0 +1,8 @@
+*.swp
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+
+Capfile
+config/deploy.rb
